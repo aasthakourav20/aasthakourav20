@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aastha Kourav</h1>
-<h4 align="center">I'm a passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems.
+<h4 align="center">I'm a passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. In languages like C ,C++ , HTML , CSS , Javascript and have strong foundation in Data Structures and Algorithms & Web Development . Practising MERN Stack (Nodejs , MongoDb , Expressjs , Reactjs ) and working on various projects . Dedicated and motivated tech enthusiast . Adept at problem solving , critical thinking , and collaborative teamwork . Eager to leverage technical skills and creativity to drive impactful solutions in a dynamic environment .
 </h4>
 
 - 🌱 I’m currently learning **Full Stack Development**
