@@ -6,7 +6,7 @@
 
 - 📫 Can reach me via **aasthakourav2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16JSd_grKUUtzIOMtendChDR19lA33JiE/view?usp=drivesdk](https://drive.google.com/file/d/16JSd_grKUUtzIOMtendChDR19lA33JiE/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IL5w0W0lyAaejrcYPE9VTc3uZgcDbcw3/view?usp=drivesdk]
 
 - ⚡ Fun fact **I loves to solve Sudoku**
 
