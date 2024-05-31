@@ -6,8 +6,6 @@
 
 - 📫 Can reach me via **aasthakourav2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IL5w0W0lyAaejrcYPE9VTc3uZgcDbcw3/view?usp=drivesdk]
-
 - ⚡ Fun fact **I loves to solve Sudoku**
 
 <h3 align="left">Connect with me:</h3>
