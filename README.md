@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I loves to solve Sudoku**
 
+  [![](https://visitcount.itsvg.in/api?id=aasthakourav20&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aastha kourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha kourav" height="30" width="40" /></a>
