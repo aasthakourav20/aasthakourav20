@@ -7,18 +7,17 @@
 * Summer Internships 2024 : Prodigy Infotech (Web Development )
    CipherByte Technology ( Data Science )
 
-* Open Source Contributions : GSSoC'24 
+* Open Source Contributions : GSSoC'24  & 
                               SSoC'24
 
 * Skills : Languages: C/C++, Python, JavaScript
  - Frontend & Backend: Reactjs, TailwindCSS, HTML, CSS, Bootstrap, Nodejs, Expressjs
  - Clouds & Databases: SQL, MongoDB
  - Developer Tools: VS Code, GitHub, Git, Google Colab
- - Relevant Coursework: Data Structure & Algorithms, Web Development, OOPs Concept, 
- - Computer Networks, Operationg System
+ - Relevant Coursework: Data Structure & Algorithms, Web Development, OOPs Concept, Computer Networks, Operationg System
  - Areas of Interest: Solving Sudoku, Writing, Poetry, Art & Craft
 
-* Solved 700+ Ques from GFG , Leetcode and Codestudio and various other coding platforms 
+* Solved 700+ Ques from GFG , Leetcode and Codestudio and various other coding platforms :
  DSA and Competitive Programming 
 
 * Machine Learning and Artificial Intelligence Enthusiast
