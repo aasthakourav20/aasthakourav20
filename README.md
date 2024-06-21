@@ -1,5 +1,27 @@
 <h1 align="center">Hi 👋, I'm Aastha Kourav</h1>
-<h4 align="center">I'm a passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. In languages like C ,C++ , HTML , CSS , Javascript and have strong foundation in Data Structures and Algorithms & Web Development . Practising MERN Stack (Nodejs , MongoDb , Expressjs , Reactjs ) AI & machine learning enthusiast and working on various projects . Dedicated and motivated tech enthusiast . Adept at problem solving , critical thinking , and collaborative teamwork . Eager to leverage technical skills and creativity to drive impactful solutions in a dynamic environment .
+<h4 align="center">I'm a passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. 
+
+* Code; Without Barriers Hackathon by Microsoft : worked on a real world problem statement i.e. 
+    AI built Chatbot for Mental Health
+
+* Summer Internships 2024 : Prodigy Infotech (Web Development )
+   CipherByte Technology ( Data Science )
+
+* Open Source Contributions : GSSoC'24 
+                              SSoC'24
+
+* Skills : Languages: C/C++, Python, JavaScript
+ - Frontend & Backend: Reactjs, TailwindCSS, HTML, CSS, Bootstrap, Nodejs, Expressjs
+ - Clouds & Databases: SQL, MongoDB
+ - Developer Tools: VS Code, GitHub, Git, Google Colab
+ - Relevant Coursework: Data Structure & Algorithms, Web Development, OOPs Concept, 
+ - Computer Networks, Operationg System
+ - Areas of Interest: Solving Sudoku, Writing, Poetry, Art & Craft
+
+* Solved 700+ Ques from GFG , Leetcode and Codestudio and various other coding platforms 
+ DSA and Competitive Programming 
+
+* Machine Learning and Artificial Intelligence Enthusiast
 </h4>
 
 - 🌱 I’m currently learning **Full Stack Development** & **Machine Learning**
