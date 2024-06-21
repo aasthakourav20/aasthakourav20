@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aastha Kourav</h1>
-<h4 align="center">I'm a passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. 
+<h4>Passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. 
 
 * Code; Without Barriers Hackathon by Microsoft : worked on a real world problem statement i.e. 
     AI built Chatbot for Mental Health
