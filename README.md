@@ -4,9 +4,6 @@
 * Code; Without Barriers Hackathon by Microsoft : worked on a real world problem statement i.e. 
     AI built Chatbot for Mental Health
 
-* Summer Internships 2024 : Prodigy Infotech (Web Development )
-   CipherByte Technology ( Data Science )
-
 * Open Source Contributions : GSSoC'24  & 
                               SSoC'24
 
@@ -15,8 +12,6 @@
  - Clouds & Databases: SQL, MongoDB
  - Developer Tools: VS Code, GitHub, Git, Google Colab
  - Relevant Coursework: Data Structure & Algorithms, Web Development, OOPs Concept, Computer Networks, Operationg System
- - Areas of Interest: Solving Sudoku, Writing, Poetry, Art & Craft
-
 * Solved 700+ Ques from GFG , Leetcode and Codestudio and various other coding platforms :
  DSA and Competitive Programming 
 
