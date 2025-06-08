@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aastha Kourav</h1>
-<h4>Passionate BTech engineering student with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. 
+<h4>Software Engineer with a keen interest in the dynamic world of technology and Coding. With a strong foundation in both theoretical knowledge and practical skills , I thrive on exploring new innovations and applying coding principles to solve real world problems. 
+
+* Software Development Engineering Intern at TailNode Technology.
+   - Working on Real World Problem statements 
+   - Full Stack Developer
+   - RealTime Data pipelines
 
 * Code; Without Barriers Hackathon by Microsoft : worked on a real world problem statement i.e. 
     AI built Chatbot for Mental Health
@@ -14,7 +19,7 @@
 * Machine Learning and Artificial Intelligence Enthusiast
 </h4>
 
-- 🌱 I’m currently learning **Full Stack Development** & **Machine Learning**
+- 🌱 Currently learning **Full Stack development**,  **Machine Learning**,  **Artificial Intelligence**
 
 - 📫 Can reach me via **aasthakourav2002@gmail.com**
 
